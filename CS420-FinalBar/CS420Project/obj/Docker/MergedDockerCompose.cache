@@ -1,0 +1,90 @@
+services:
+  bartender:
+    build:
+      context: C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project
+      dockerfile: Bartender/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: bartender
+    ports:
+    - target: 80
+    - published: 32770
+      target: 443
+    - target: 443
+    volumes:
+    - C:\Users\dvasauskas\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\dvasauskas\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  bussboy:
+    build:
+      context: C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project
+      dockerfile: BussBoy/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: bussboy
+    ports:
+    - target: 80
+    - published: 32771
+      target: 443
+    - target: 443
+    volumes:
+    - C:\Users\dvasauskas\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\dvasauskas\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  hostess:
+    build:
+      context: C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project
+      dockerfile: Hostess/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: hostess
+    ports:
+    - target: 80
+    - published: 32772
+      target: 443
+    - target: 443
+    volumes:
+    - C:\Users\dvasauskas\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\dvasauskas\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  kitchen:
+    build:
+      context: C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project
+      dockerfile: Kitchen/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: kitchen
+    ports:
+    - target: 80
+    - published: 32773
+      target: 443
+    - target: 443
+    volumes:
+    - C:\Users\dvasauskas\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\dvasauskas\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  rabbitmq:
+    build:
+      context: C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project
+      dockerfile: RabbitConsole/Dockerfile
+    image: rabbitmq
+    ports:
+    - published: 32775
+      target: 443
+  waiter:
+    build:
+      context: C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project
+      dockerfile: Waiter/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: waiter
+    ports:
+    - target: 80
+    - published: 32774
+      target: 443
+    - target: 443
+    volumes:
+    - C:\Users\dvasauskas\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\dvasauskas\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

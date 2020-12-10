@@ -1,0 +1,53 @@
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\appsettings.Development.json
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\appsettings.json
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Properties\launchSettings.json
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Week9.exe
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Week9.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\RabbitMQ.Client.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\System.Threading.Channels.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\Week9.pdb
+C:\Users\cxb4tls\source\repos\Week9\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\cxb4tls\source\repos\Week9\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\cxb4tls\source\repos\Week9\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\RabbitConsole.exe
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\RabbitConsole.dll
+C:\Users\cxb4tls\source\repos\Week9\bin\Debug\RabbitConsole.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\appsettings.Development.json
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\appsettings.json
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\RabbitMQ.Client.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\System.Threading.Channels.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Waiter.exe
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Bartender.Views.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Bartender.Views.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Bartender.exe
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Hostess.Views.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Hostess.Views.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Hostess.exe
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Kitchen.Views.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Kitchen.Views.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Kitchen.exe
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\BussBoy.Views.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\BussBoy.Views.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\BussBoy.exe
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Bartender.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\BussBoy.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Hostess.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Kitchen.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Waiter.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Waiter.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Bartender.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Hostess.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\Kitchen.pdb
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\bin\Debug\BussBoy.pdb

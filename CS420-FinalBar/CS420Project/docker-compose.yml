@@ -1,0 +1,55 @@
+version: '3.4'
+
+services:
+
+  rabbitmq:
+    image: ${DOCKER_REGISTRY-}rabbitmq
+    build:
+      context: .
+      dockerfile: RabbitConsole/Dockerfile
+    ports:
+      - 32775:443
+
+  bartender:
+    image: ${DOCKER_REGISTRY-}bartender
+    build:
+      context: .
+      dockerfile: Bartender/Dockerfile
+    ports:
+      - 32770:443
+
+  bussboy:
+    image: ${DOCKER_REGISTRY-}bussboy
+    build:
+      context: .
+      dockerfile: BussBoy/Dockerfile
+    ports:
+      - 32771:443
+
+
+  hostess:
+    image: ${DOCKER_REGISTRY-}hostess
+    build:
+      context: .
+      dockerfile: Hostess/Dockerfile
+    ports:
+      - 32772:443
+
+  kitchen:
+    image: ${DOCKER_REGISTRY-}kitchen
+    build:
+      context: .
+      dockerfile: Kitchen/Dockerfile
+    ports:
+      - 32773:443
+
+
+  waiter:
+    image: ${DOCKER_REGISTRY-}waiter
+    build:
+      context: .
+      dockerfile: Waiter/Dockerfile
+    ports:
+      - 32774:443
+
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2Jn9xuIXYnANlrhwxdR6LO5rH4wwbuCFkdSRyAmSwc2qC/bGqanD9SPaSsD3Ckyf/NcL4oCQwtM7lzh+dNNeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dvasauskas\\Desktop\\Software Projects\\Visual Studio\\CS420-FinalBar\\WindowsFormApp2\\Bartender\\Bartender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dvasauskas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dvasauskas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

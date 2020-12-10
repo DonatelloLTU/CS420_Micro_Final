@@ -1,0 +1,16 @@
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.AssemblyInfoInputs.cache
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.AssemblyInfo.cs
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.RazorTargetAssemblyInfo.cache
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\staticwebassets\Host.StaticWebAssets.Manifest.cache
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\staticwebassets\Host.StaticWebAssets.xml
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\bin\Debug\netcoreapp3.1\Host.exe
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.csprojAssemblyReference.cache
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.csproj.CopyComplete
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.csproj.CoreCompileInputs.cache
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dvasauskas\Desktop\Software Projects\Visual Studio\CS420-FinalBar\CS420Project\Host\obj\Debug\netcoreapp3.1\Host.MvcApplicationPartsAssemblyInfo.cache
